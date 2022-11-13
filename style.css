@@ -17,9 +17,6 @@ body, input{
     overflow: hidden;
 }
 
-
-
-
 .container::before{
     content: ' ';
     position: absolute;
